@@ -30,7 +30,7 @@ export default function Dashboard() {
             Update Profile
           </Link>
           <Link to="/signup" className="btn btn-primary w-100 mt-3">
-            Add a new Admin user
+            Add a new Admin
           </Link>
         </Card.Body>
       </Card>
